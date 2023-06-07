@@ -1,1 +1,1 @@
-My first readme
+Coding school with alx
